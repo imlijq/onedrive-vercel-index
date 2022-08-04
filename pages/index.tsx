@@ -26,6 +26,8 @@ export default function Home() {
         </div>
       </main>
 
+      <img style="margin: 0 auto;" src="https://hits.link/hits?url=https%3A%2F%2Fonedrive.lijq.tk" />
+      
       <Footer />
     </div>
   )
