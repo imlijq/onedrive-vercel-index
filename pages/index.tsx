@@ -25,7 +25,7 @@ export default function Home() {
           <FileListing />
         </div>
         
-        <div className="w-full p-4 text-center text-xs font-medium">
+        <div className="w-full p-4 text-center text-xs font-medium flex justify-center">
           <img src="https://hits.link/hits?url=https%3A%2F%2Fonedrive.lijq.tk" />
         </div>
         
