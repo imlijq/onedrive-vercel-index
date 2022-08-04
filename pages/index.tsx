@@ -25,7 +25,11 @@ export default function Home() {
           <FileListing />
         </div>
         
-        <img src="https://hits.link/hits?url=https%3A%2F%2Fonedrive.lijq.tk" />
+        <div class="w-full p-4 text-center text-xs font-medium">
+          <img src="https://hits.link/hits?url=https%3A%2F%2Fonedrive.lijq.tk" />
+        </div>
+        
+        
         
       </main>
 
