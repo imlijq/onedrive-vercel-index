@@ -24,9 +24,12 @@ export default function Home() {
           </nav>
           <FileListing />
         </div>
+        
+        <img src="https://hits.link/hits?url=https%3A%2F%2Fonedrive.lijq.tk" />
+        
       </main>
 
-      <img  src="https://hits.link/hits?url=https%3A%2F%2Fonedrive.lijq.tk" />
+      
       
       <Footer />
     </div>
